@@ -17,7 +17,7 @@ Thanks to all [contributors](https://github.com/deralexxx/security-apis/graphs/c
 ## Online
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
-| Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |?|
+| Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/dev-tools-skill-management-api) |?|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
